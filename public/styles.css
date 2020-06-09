@@ -53,8 +53,7 @@
 .card--image{
   margin: 1rem auto;
   border-radius: 2rem;
-  width: 70%;
-  height: 45%;
+  size: 20rem;
 }
 
 .card--content{
