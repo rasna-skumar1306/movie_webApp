@@ -1,0 +1,64 @@
+
+
+.navbar {
+  background-color: #222215;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.search {
+  display: grid;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: 2% auto 7%;
+  text-align: center;
+  width: 50%;
+}
+
+.search--text {
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  display: grid;
+  margin: 1rem auto 1.3rem;
+  margin-bottom: 1.3rem;
+  text-align: center;
+  width: 70%;
+}
+
+.search--btn {
+  display: grid;
+  height: 3rem;
+  width: 6rem;
+}
+
+.cardSection{
+  display: flex;
+  flex-basis: content;
+}
+
+.card-element{
+  border-radius: 2rem;
+  background-color: #222215;
+  box-shadow: 1px 1px 5px #ddffff;
+  
+  margin: 2rem auto;
+  height: 40rem;
+  padding: 2rem 2rem;
+  width: 34%;
+  text-align: center;
+}
+
+.card--image{
+  margin: 1rem auto;
+  border-radius: 2rem;
+  width: 70%;
+  height: 45%;
+}
+
+.card--content{
+  color: #ffffff;
+  padding: 1rem 2rem;
+  text-align: center;
+}
